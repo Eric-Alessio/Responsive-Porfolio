@@ -1,0 +1,45 @@
+body {
+    background-color: blue;
+}
+
+#contactHeader {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.container {
+    margin: 0 auto; 
+    width:500px;
+    border-color: rgb(92, 133, 158);
+    border-style: double;
+    background: lightblue;
+    padding: 20px;
+    border-radius: 20px;
+    border-width: 20px;
+}  
+
+.container{
+    font-size: 50;
+    font-weight: bolder;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(165, 164, 164);
+  color: lightgray;
+  text-align: center;
+  font-weight: bold;
+}
+/*--inserted font from google--*/
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
